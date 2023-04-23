@@ -1,0 +1,61 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+  }
+  
+  nav {
+    margin-bottom: 50px;
+  }
+  
+  section {
+    background-color: #f7f7f7;
+    padding: 100px 0;
+  }
+  
+  section h1 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  section p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  .btn-primary {
+    background-color: #4c4cff;
+    border-color: #4c4cff;
+  }
+  
+  .btn-primary:hover,
+  .btn-primary:focus {
+    background-color: #2e2eb8;
+    border-color: #2e2eb8;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  footer p {
+    font-size: 14px;
+    margin: 0;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #fff;
+  }
+  @media (max-width: 768px) {
+    /* Styles for mobile screens */
+    #passport{
+      position: absolute;
+      left: 290px;
+      bottom: 155%;
+    }
+    
+    }
