@@ -50,12 +50,4 @@ body {
   footer a {
     color: #fff;
   }
-  @media (max-width: 768px) {
-    /* Styles for mobile screens */
-    #passport{
-      position: absolute;
-      left: 290px;
-      bottom: 155%;
-    }
-    
-    }
+  
